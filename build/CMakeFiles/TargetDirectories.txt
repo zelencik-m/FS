@@ -1,0 +1,3 @@
+/Users/maximzelencik/Coding/FS/build/CMakeFiles/sdl2_project.dir
+/Users/maximzelencik/Coding/FS/build/CMakeFiles/edit_cache.dir
+/Users/maximzelencik/Coding/FS/build/CMakeFiles/rebuild_cache.dir
